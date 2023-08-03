@@ -28,7 +28,7 @@ IMPORTANT: SOME OF FEATURES ARE TESTED ONLY ON WINDOWS VERSION OF DISCORD!
 CUSTOMIZABLE BACKGROUND IMAGE AND MAIN COLORS BELOW*
 
 *IF YOU WANT TO CUSTOMIZE THOSE COLORS, CHANGE root TO :root 
-*/
+*/ 
 
 :root {
   --app-background: url("https://drive.google.com/file/d/1qkgsA8DzLIoPjg-p1vlAIeMASlOcYTN2/view?usp=sharing"); /* main app background image [default: url("https://przemec.github.io/Novum/assets/images/app.png")] */
